@@ -1,0 +1,19 @@
+{
+  "name": "dungeon-master-tool-kit",
+  "version": "0.0.1",
+  "description": "D&D Dungeon Master Game Manager",
+  "main": "index.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Coder5452/DMTK.git"
+  },
+  "author": "Coder5452",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Coder5452/DMTK/issues"
+  },
+  "homepage": "https://github.com/Coder5452/DMTK#readme"
+}
